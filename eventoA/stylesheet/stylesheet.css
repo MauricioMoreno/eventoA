@@ -96,9 +96,12 @@ ul li p {
   height: 32%;
   border: 1px solid red;
   color: red;
-  
 
 }
 
+#map{
+
+  height: 100%;
+}
 
 
