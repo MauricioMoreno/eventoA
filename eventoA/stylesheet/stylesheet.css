@@ -1,3 +1,8 @@
+nav, .navbar {
+  margin: 0;
+}
+
+
 .principal{
 	padding-bottom: 30%;
 	width:100%;
